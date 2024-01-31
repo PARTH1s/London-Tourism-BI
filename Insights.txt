@@ -1,0 +1,15 @@
+🌟 Exciting Insights into London Tourism! 🌍📊 Check out this latest creation – the Power BI Dashboard: London Tourism 🇬🇧✈️
+
+📈 Power BI Dashboard: London Tourism
+
+Embark on a visual journey through London's tourism landscape with our cutting-edge Power BI dashboard! Crafted using data from the Office For National Statistics and enriched with geographical insights from Google Maps, this dashboard is designed to unveil and track trends in visitors to London over time.
+
+🔍 Discover Trends and Insights:
+Track visitor numbers and spending by year and country 🌐💸
+Dive into specific data for visitors from different countries 🌍
+Explore contributions to London's economy from around the globe 💼💰
+Uncover the most popular visitor attractions 🏰
+Understand the impact of COVID-19 on visits 🦠
+
+💡 Dynamic & Interactive:
+Our interactive dashboard empowers you to drill through the map, accessing specific country data. Slicers on each page allow effortless sorting by year and country, while responsive graphs enhance your exploration. Intuitive buttons facilitate seamless navigation through various pages.
